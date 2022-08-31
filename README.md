@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohit-290822
 - 👀 I’m interested in DSA,JAVA and backend related technologies
-- 🌱 I’m currently learning advanve DSA using JAVA
+- 🌱 I’m currently learning advance DSA using JAVA
 - 💞️ I’m looking to collaborate on JAVA AND JAVA RELATED BACKEND PROJECTS
 - 📫 Free feel to reach me out on : rohitmr99@gmail.com
 
